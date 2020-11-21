@@ -1,0 +1,30 @@
+{
+  "name": "goit29-node-hw03-mongodb",
+  "version": "1.0.0",
+  "description": "node.js-hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eueniy/goit29-node-hw03-mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eueniy/goit29-node-hw03-mongodb/issues"
+  },
+  "homepage": "https://github.com/Eueniy/goit29-node-hw03-mongodb#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.10.15",
+    "nodemon": "^2.0.6"
+  }
+}
