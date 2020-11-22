@@ -20,11 +20,14 @@
   },
   "homepage": "https://github.com/Eueniy/goit29-node-hw03-mongodb#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "joi": "^17.3.0",
+    "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.6.3",
     "mongoose": "^5.10.15",
     "nodemon": "^2.0.6"
-  }
+  },
+  "devDependencies": {}
 }
